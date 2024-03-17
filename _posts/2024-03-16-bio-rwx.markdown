@@ -1,0 +1,100 @@
+---
+layout: post
+title: "[DRAFT] Bio-read/write/execute"
+date: 2023-10-16 22:46:58 -0400
+# categories: jekyll update
+---
+
+# [DRAFT] Bio-read, Bio-write, Bio-execute
+
+## Intro
+
+Relative to its power and impact, software engineering is pretty easy. An individual engineer can publish a project capable of reaching millions of people in one afternoon. The same is not true of biotech. Starting a biotech venture requires a multi-disciplinary team of technical PhDs committed to a years-long R&D effort with lots of technical risk.
+
+So, it should be no surprise that we have far more software companies than biotech companies. **But what if creating an impactful biotech venture was as easy as creating a software venture?**
+
+Although the computer and internet revolutions have been transformative, we live in a physical world with physical problems. Many of the 21st century’s grand challenges are rooted in biology, from human health to climate to materials. Wouldn’t it be great if young bio-engineers could tackle these problems from their proverbial garages and dorm rooms around the world, the same way software engineers can today?
+
+I believe we are headed to such a world. To see why, we need to understand what I call the bio-read, bio-write, bio-execute framework.
+
+Three basic operations define modern computing: read, write, execute:
+
+1. Reading files
+2. Writing / modifying files
+3. Executing calculations on the data within files
+
+Bio-read/write/execute simply takes this framework and applies it to biology:
+
+1. Bio-read = our ability to read and understand an organism’s genetic code (be it bacteria,
+   plant, animal, or human)
+2. Bio-write = our ability to design new genetic code
+3. Bio-execute = our ability to deliver new genetic code to an organism
+
+Why do this? As Deepmind Co-founder and CEO Demis Hassabis said: _At its most fundamental level, I think biology can be thought of as an information processing system, albeit an extraordinarily complex and dynamic one._
+
+Biology’s information processing system is written in life’s genetic code, DNA. Many have written about the similarity between computer code defined in binary (ones and zeros) and DNA’s genetic code (ATCG). Although it isn’t a perfect analogy, for the purposes of this essay, when we mention genetic code, we are discussing DNA.
+
+We can thus break down bio-engineering requirements as follows:
+
+- You need to understand the genetic code you are working with (bio-read).This involves a physical process of sequencing a genome, and a digital process of analyzing/annotating it.
+- You need to design the genetic code modifications you desire (bio-write).
+- You need to deliver or manufacture your new genetic code to one or more living
+  organisms (bio-execute).
+
+So where are we in each of these dimensions? And where are we going?
+
+## Bio-read
+
+Our ability to read genetic data at scale is extremely important, because if we can’t see and understand the human genome, how can we be expected to understand and manage health and disease?
+
+Without a map of the human genome, we’ve relied on the Mendelian heuristics everyone was taught in their middle school biology course. As a (made up) example, being tall is a recessive trait, and only one of your parents was tall, so you will be short.
+
+But in 2003, after 13 years and $3 billion of investment, the first Human Genome was successfully mapped. Today, we can sequence a human genome for just over $200 in 2 days and the cost of sequencing a human genome is decreasing exponentially, at a faster rate than Moore’s Law.
+
+Biologists all over the world have been using ever-growing troves of genetic data to determine genetic mutation causality to disease, understand genetic differences between populations, and much more, creating the vibrant field of bioinformatics. Our ability to bio-read is rapidly
+advancing.
+
+## Bio-write
+
+However, even a genetic sequence is not a magic instruction manual, because a DNA
+sequence is a static 1D representation of a dynamic 3D system.
+
+In a human cell, DNA is located in the nucleus and gets translated repeatedly into proteins, which go on to perform various functions. What shapes are those proteins? Where do they go within the cell? With what do they interact? These questions are crucial to a complete understanding of human biology.
+
+None of this information is stored within DNA itself. Scientists have long been at work to experimentally determine protein structures and simulate single-cells.
+
+In recent years, AI tools like Alphafold have revolutionized our ability to model protein structure. Researchers are hard at work looking to solve our understanding of interactions, dynamics, and more.
+
+As we turn our growing pools of data into better and better AI tools to model biology, our ability to bio-write is rapidly advancing.
+
+## Bio-execute
+
+Reading and writing is great, but real impact comes from taking action. Genentech marked the birth of the modern biotech industry over 45 years ago with the first instance of modifying the genetic makeup of a living organism using a technique called Gene Therapy. This history is well laid out [here](https://www.labiotech.eu/in-depth/history-biotechnology-genentech/), and its success led to cheap insulin for all.
+
+The issue is that gene therapy is not precise. When messing with bacteria, that doesn’t matter. However, applying this level of precision to the human body is dangerous.
+
+In 2011 we discovered CRISPR, a bacterial defense mechanism where the bacteria modifies its own DNA. When properly engineered and catalyzed with an enzyme, Cas9, a CRISPR-cas9 system allows us to genetically edit humans, in a targeted, precise manner. This tool works like a scissor which snips a DNA sequence at two specified points and fills the gap with a new sequence.
+
+Even CRISPR is not perfectly precise however, and the cutting can lead to unwanted mutations. In 2016, we discovered base-pair editing, which allows scientists to modify a single nucleotide base of DNA in place (no cutting required). This is amazing precision but limited throughput (the
+amount of DNA we can modify at once). Most recently, we’ve invented prime editing, which has the same precision as base-pair editors but with much greater flexibility and throughput.
+
+In summary, we’ve gone from
+
+1. Gene editing: high throughput, low precision
+2. CRISPR-Cas9: medium throughput, medium precision
+3. Base Pair Editing: low throughput, high precision
+4. Prime Editing: high throughput, high precision
+
+Our ability to bio-execute is rapidly advancing.
+
+## Pirates, biology will see you now
+
+So what happens when a young biologist can analyze troves of genetic data from a computer, model genetic modifications on a computer, and then reliably implement that change into a bacteria, plant, or human (important safety trials and ethical considerations aside)?
+
+These tools will allow for specialization in biotech. In today's computer industry, we have material scientists and electrical engineers building semiconductors, computer engineers designing hardware, and software engineers writing code. In tomorrow's biotech world, we will have a split between biochemists and genetic engineers who wrangle with raw biology, and genetic programmers who write genetic code.
+
+Consequently, we should expect the barrier to entry to join the field to lower drastically for genetic programmers. The internet is an equalizing force and allows for permissionless innovation. As this field moves from science to engineering, more of the work will be mediated through computers. There is no reason to believe genetic programming won’t be as collaborative as software.
+
+Software has attracted so many young entrepreneurs because they can leverage the internet and cloud computing to build valuable things without having to climb an academic and professional ladder before getting started. This is extremely beneficial to society, as young people bring new ideas, an appetite for risk, and tenacity. Why shouldn’t the same thing happen in biotech?
+
+Bio-read/write/execute opens up a new world of possibilities, and society will need driven founders and loads of talent to execute them. What are you waiting for?
