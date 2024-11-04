@@ -14,4 +14,5 @@ Before returning to school:
 
 ### Blog
 
-- Please see some of my favorite recent reads [here](/books.md)
+- [(WIP) The Promise of Neurotechnology](/promise_of_neurotech.md)
+- [My favorite recent reads](/books.md)
