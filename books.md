@@ -1,38 +1,34 @@
-## Random Sampling of Reads
+## Recent Reads
 
-### Science Fiction
-**The Three Body Problem Series by Cixin Liu**
-- The Three Body Problem
-- The Dark Forest
-- Death's End (next in queue)
+### Fiction
 
-**Dune Series by Frank Herbert**
-- Dune
-- Dune Messiah
+- Brave New World (Huxley)
+- The Three Body Problem (Liu)
+- The Dark Forest (Liu)
+- Death's End (Liu)
+- Dune (Herbert)
+- Dune Messiah (Herbert)
 
-### Science, Math, and Logic
-**The Incerto Series by Nassim Taleb**
-- Fooled by Randomness
-- The Black Swan
-- Antifragile
-- Skin in the Game
+### Nonfiction
 
-**David Deutsch**
-- The Fabric of Reality
-- The Beginnings of Infinity (in progress)
+- Outlive (Attia)
+- Fooled by Randomness (Taleb)
+- The Black Swan (Taleb)
+- Antifragile (Taleb)
+- Skin in the Game (Taleb)
+- The Fabric of Reality (Deutsch)
+- The Beginnings of Infinity (Deutsch)
 
-### Business and Getting Things Done
-- High Output Management
-- Loonshots
-- 7 Powers: The Foundations of Business Strategy
-- The Founders
-- Only the Paranoid Survive
-- The Checklist Manifesto
-- The Upside of Stress
-- Grit
+### Business
 
-
-### Sports and Memoirs
-- Shoe Dog
-- The Score Takes Care of Itself
-- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+- Loonshots (Bahcall)
+- 7 Powers: The Foundations of Business Strategy (Helmer)
+- The Founders (Soni)
+- High Output Management (Grove)
+- Only the Paranoid Survive (Grove)
+- The Checklist Manifesto (Gawande)
+- The Upside of Stress (McGonigal)
+- Grit (Duckworth)
+- Shoe Dog (Knight)
+- The Score Takes Care of Itself (Walsh)
+- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Vance)
