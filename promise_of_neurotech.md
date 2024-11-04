@@ -30,13 +30,19 @@ Among these, tFUS stands out for its precision and potential. It can target area
 
 In classical mechanics, waves traveling over the same space will interfere with each other. Depending on their wavelengths and phases, they will either interfere constructively (resulting in a more energized wave) or destructively (resulting in a dampened wave).
 
+![Wave Interference](images/neurotech_1.png)
+
 #### 2.1.2 Beamforming
 
 Ultrasound beamforming leverages wave interference to focus ultrasound waves with very high precision. At a calculated focal point, we will get constructive interference, and everywhere else, we will get destructive interference. Wave interference and beamforming is how tFUS is able to precisely target deep-brain regions without disrupting neighboring neurons.
 
+![Beamforming](images/neurotech_2.png)
+
 #### 2.1.3 Putting it all together
 
 Creating a tFUS headset requires multiple transducers spread out around the skull. These transducers can be programmed to jointly target a specific brain region to induce a desired change in brain state.
+
+![Putting it together](images/neurotech_3.png)
 
 ### 2.2 Programming tFUS Treatments
 
