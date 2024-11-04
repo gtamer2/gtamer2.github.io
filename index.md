@@ -12,6 +12,12 @@ Before returning to school:
 - I was an infrastructure software engineer at Salesforce on the [Hyperforce](https://www.salesforce.com/platform/public-cloud-infrastructure/) team.
 - I graduated from the University of Michigan (Ann Arbor), College of Engineering, with a computer science engineering degree and a minor in business from Michigan's Ross school of Business.
 
+### Links
+
+- [LinkedIn](https://www.linkedin.com/in/george-tamer/)
+- [X](https://x.com/georgetamer_)
+- [Github](https://github.com/gtamer2)
+
 ### Blog
 
 - [(WIP) The Promise of Neurotechnology](/promise_of_neurotech.md)
