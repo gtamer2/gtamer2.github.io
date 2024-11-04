@@ -15,4 +15,5 @@ Before returning to school:
 ### Blog
 
 - [(WIP) The Promise of Neurotechnology](/promise_of_neurotech.md)
+- [The Coming Talent Bifurcation in Robotics](/robotics_talent_bifurcation.md)
 - [My favorite recent reads](/books.md)
